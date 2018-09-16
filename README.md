@@ -89,6 +89,9 @@
 ※「uuunuuun互角局面集」の方は上記（１）で[uuunuuunさんのWebサイト](http://www.uuunuuun.com/)で公開されている棋譜とレーティングを使用させて頂いておりますが、  
 　この点を除いては上記「floodgate互角局面集」の作成方法と同様です。  
 
+【2018/9/16追記】  
+- [ロタさんが計測され](http://syougiultimit.seesaa.net/article/orqha.html)、[Qhapaq Research Lab (QRL)](https://www.qhapaq.org/)で公開された棋譜「180913_Rota_may2orqha_19000kifs（180913_kif_rota.7z）」を元に同様の局面集を作成しました。
+- 上記（１）の「ただし、評価値0は除く」について、やねうら王の千日手の評価値（のデフォルト値）が±1になったことに伴い、2017年以降の局面集は「評価値-1～+1は除く」で作成しています。
 
 ## 先手有利局面集
 
